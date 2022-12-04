@@ -1,0 +1,30 @@
+$date
+	Wed Jan  5 09:03:57 2022
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module testbench $end
+$scope module mymux $end
+$var wire 1 ! in0 $end
+$var wire 1 " in1 $end
+$var wire 1 # sel $end
+$var wire 1 $ out $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+1$
+0#
+z"
+1!
+$end
+#10
+z$
+1#
+#15
+0!
